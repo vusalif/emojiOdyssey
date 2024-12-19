@@ -1,3 +1,4 @@
+
 class EmojiGame {
     constructor() {
         this.currentMode = new URLSearchParams(window.location.search).get('mode');

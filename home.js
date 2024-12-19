@@ -1,3 +1,4 @@
+
 class GameCardGifManager {
     constructor() {
         // Object to store GIF arrays for each category
